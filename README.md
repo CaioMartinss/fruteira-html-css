@@ -67,7 +67,6 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
   - HTML
   - CSS
  
-
 <!-- * [![Css][Css.com](https://www.w3schools.com/css/)
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -79,7 +78,6 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
  -->
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -87,7 +85,7 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-2. Clone the repo
+2. Clone 
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
