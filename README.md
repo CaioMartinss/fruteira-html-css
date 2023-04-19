@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
 ## Contato
 <!-- Caio Martins do Nascimento - [@your_twitter](https://twitter.com/your_username) - email@example.com -->
 
-LINK DO PROJETO: [https://github.com/your_username/repo_name](https://github.com/CaioMartinss/fruteira-html-css)
+LINK DO PROJETO: [https://github.com/CaioMartinss/fruteira-html-css](https://github.com/CaioMartinss/fruteira-html-css)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Conhecimentos
