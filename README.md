@@ -10,7 +10,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<!-- [![Contributors][contributors-shield]][contributors-url]
+
+ [![Contributors][contributors-shield]][contributors-url]
+<!--
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -25,30 +27,27 @@
   <summary>visão geral </summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Construção</a></li>
+        <li><a href="#construção">Construção</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Começando</a>
       <ul>
-        <li><a href="#prerequisites">Pré-requisitos</a></li>
-        <li><a href="#installation">Instalação</a></li>
+        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Uso</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contribuindo</a></li>
-    <li><a href="#contact">Contato</a></li>
-    <li><a href="#acknowledgments">Conhecimento</a></li>
+    <li><a href="#contato">Contato</a></li>
+    <li><a href="#conhecimentos">Conhecimentos</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o Projeto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -57,7 +56,7 @@
 
 
 
-### Built With
+### Construção
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -80,7 +79,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Pré-requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -88,7 +87,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Instalação
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -111,7 +110,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!-- ## Constribuição
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -125,7 +124,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
+ -->
 
 
 <!-- CONTACT -->
@@ -140,7 +139,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ca
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Conhecimentos
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
