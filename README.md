@@ -1,11 +1,11 @@
 
 <a name="readme-top"></a>
-
+<!-- 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url] -->
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/)
 
 
@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
 <!-- Contato -->
 ## Contato
 <!-- Caio Martins do Nascimento - [@your_twitter](https://twitter.com/your_username) - email@example.com -->
-
+ 
 LINK DO PROJETO: [https://github.com/CaioMartinss/fruteira-html-css](https://github.com/CaioMartinss/fruteira-html-css)
 
 <!-- ACKNOWLEDGMENTS -->
