@@ -1,14 +1,12 @@
 
 <a name="readme-top"></a>
 
-
- [![Contributors][contributors-shield]][contributors-url]
-<!--
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/) -->
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/) 
+<!-- [![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url] -->
 
 
 
