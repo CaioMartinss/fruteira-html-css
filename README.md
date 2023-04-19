@@ -2,7 +2,6 @@
 <a name="readme-top"></a>
 
 [![Contributors](https://img.shields.io/github/contributors/CaioMartinss/CaioMartinss.github.io?style=flat-square)](https://github.com/CaioMartinss/fruteira-html-css/graphs/contributors)
-
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/) 
 <!-- [![Forks][forks-shield]][forks-url]
