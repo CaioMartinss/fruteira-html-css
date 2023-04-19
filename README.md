@@ -82,21 +82,14 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
 ## Getting Started
 
 ### Instalação
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-2. Clone 
+- possuir o github dektop
+- clonar o repositório com o github desktop:
+2. Clonar 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   https://github.com/CaioMartinss/fruteira-html-css.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Utilzar uma IDE para rodar o projeto
+  - Sugestão: o [Visual Studiio Code](https://code.visualstudio.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
