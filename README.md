@@ -15,7 +15,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>visão geral </summary>
+ <summary> VISÃO GERAL</summary>
   <ol>
     <li>
       <a href="#sobre-o-projeto">Sobre o Projeto</a>
@@ -45,9 +45,6 @@
 ### [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/) 
 https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-8e9e-f0672146bdaf.mp4
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
-
 ## Construção
  #### Resumo das tecnologis usadas:
   - HTML
@@ -64,11 +61,8 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
 3. Utilzar uma IDE para rodar o projeto
      - Sugestão: [Visual Studio Code](https://code.visualstudio.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- Contato -->
 ## Contato
- 
 Caio Martins do Nascimento - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 LINK DO PROJETO: [https://github.com/your_username/repo_name](https://github.com/CaioMartinss/fruteira-html-css)
