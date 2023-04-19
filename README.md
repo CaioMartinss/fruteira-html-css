@@ -2,15 +2,6 @@
 <a name="readme-top"></a>
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
  [![Contributors][contributors-shield]][contributors-url]
 <!--
 [![Forks][forks-shield]][forks-url]
@@ -46,79 +37,41 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- Sobre o Projeto -->
 ## Sobre o Projeto
 
 <div style="position:relative;width:fit-content;height:fit-content;">
  
 ### [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/) 
-
-
 https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-8e9e-f0672146bdaf.mp4
 
-
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
-
-### Construção
-
-#### Resumo das tecnologis usadas:
+## Construção
+ #### Resumo das tecnologis usadas:
   - HTML
   - CSS
- 
-<!-- * [![Css][Css.com](https://www.w3schools.com/css/)
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
- -->
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-### Instalação
-- possuir o github dektop
-- clonar o repositório com o github desktop:
-2. Clonar 
+ ### Instalação
+1. Possuir o github dektop
+2. Clonar o repositório com o github desktop:
    ```sh
    https://github.com/CaioMartinss/fruteira-html-css.git
    ```
 3. Utilzar uma IDE para rodar o projeto
-  - Sugestão: o [Visual Studiio Code](https://code.visualstudio.com/)
+     - Sugestão: [Visual Studio Code](https://code.visualstudio.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
-<!-- ## Constribuição
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
- -->
-
-
-<!-- CONTACT -->
+<!-- Contato -->
 ## Contato
-
+ 
 Caio Martins do Nascimento - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/CaioMartinss/fruteira-html-css)
+LINK DO PROJETO: [https://github.com/your_username/repo_name](https://github.com/CaioMartinss/fruteira-html-css)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -126,18 +79,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ca
 
 <!-- ACKNOWLEDGMENTS -->
 ## Conhecimentos
+ ### Resumos dos conhecimento utilizados:
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+* [semãntica]()
+* [Css-flexbox](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Css-grid](https://flexbox.malven.co/)
+* [Níveis de cabeçalho(html)](https://grid.malven.co/)
+* [Hierarquia de diretórios](https://shields.io)
+* [Css-reponsividade](https://pages.github.com)
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
