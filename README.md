@@ -64,7 +64,7 @@ LINK DO PROJETO: [https://github.com/your_username/repo_name](https://github.com
 * [Css-grid]()
 * [Níveis de cabeçalho(html)]()
 * [Hierarquia de diretórios]()
-* [Css-reponsividade]()
+* [Css-responsividade]()
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
