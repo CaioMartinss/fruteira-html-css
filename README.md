@@ -1,14 +1,6 @@
 
 <a name="readme-top"></a>
 
-[![Contributors](https://img.shields.io/github/contributors/CaioMartinss/CaioMartinss.github.io?style=flat-square)](https://github.com/CaioMartinss/fruteira-html-css/graphs/contributors)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/) 
-<!-- [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url] -->
-
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -21,9 +13,8 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Começando</a>
+      <a href="#começando">Começando</a>
       <ul>
-        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
         <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
@@ -48,7 +39,7 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
   - CSS
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Começando
  ### Instalação
 1. Possuir o github dektop
 2. Clonar o repositório com o github desktop:
