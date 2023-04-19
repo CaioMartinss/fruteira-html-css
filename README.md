@@ -71,12 +71,12 @@ LINK DO PROJETO: [https://github.com/your_username/repo_name](https://github.com
 ## Conhecimentos
  ### Resumos dos conhecimento utilizados:
 
-* [semãntica]()
-* [Css-flexbox](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Css-grid](https://flexbox.malven.co/)
-* [Níveis de cabeçalho(html)](https://grid.malven.co/)
-* [Hierarquia de diretórios](https://shields.io)
-* [Css-reponsividade](https://pages.github.com)
+* [semântica]()
+* [Css-flexbox]()
+* [Css-grid]()
+* [Níveis de cabeçalho(html)]()
+* [Hierarquia de diretórios]()
+* [Css-reponsividade]()
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
