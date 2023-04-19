@@ -67,10 +67,6 @@ Caio Martins do Nascimento - [@your_twitter](https://twitter.com/your_username) 
 
 LINK DO PROJETO: [https://github.com/your_username/repo_name](https://github.com/CaioMartinss/fruteira-html-css)
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Conhecimentos
  ### Resumos dos conhecimento utilizados:
@@ -82,9 +78,8 @@ LINK DO PROJETO: [https://github.com/your_username/repo_name](https://github.com
 * [Hierarquia de diretórios](https://shields.io)
 * [Css-reponsividade](https://pages.github.com)
 
- 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
