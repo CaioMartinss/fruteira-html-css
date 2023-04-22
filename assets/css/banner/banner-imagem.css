@@ -1,5 +1,6 @@
 .banner__imagem{
     background: url('/assets/img/banner.jpg') no-repeat center / cover;
+    background-attachment: fixed;
     width: 100%;   
 }
 
