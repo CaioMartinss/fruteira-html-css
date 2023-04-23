@@ -1,11 +1,20 @@
 .menu__link{
-    color: grey;
-    margin-right: 1.25rem;
+    display: inline-block;
+    box-sizing: border-box;
+    line-height: 4.5rem;
+    padding: 0 0.5rem;
+
+    color: #777;
+    margin-right: 0.25rem;
     text-decoration: none;
     text-transform: lowercase;
+    font-weight: bold;
+    border-top: 3px solid #FFF;
+    border-bottom: 3px solid #FFF;
 }
 
-.menu__link.ativo{
-    color: black;
-    font-weight: bold;
+.menu__link.ativo,
+.menu__link:hover{
+    color: #000;
+    border-bottom-color: #8d0606;
 }
