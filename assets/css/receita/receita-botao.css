@@ -7,10 +7,11 @@
     transition: all .1s  ease-out;
     display: block;
     margin: 2rem auto 0.5rem auto;
-
+    transition: all 0.2s ease;
 }
 
 .receita__botao:hover{
     background: var(--main-color-hover);
     cursor: pointer;
+    transform: scale(1.03);
 }
